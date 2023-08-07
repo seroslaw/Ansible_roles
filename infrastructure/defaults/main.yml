@@ -1,0 +1,3 @@
+deployment_path: "~/Panda_Infrastructure"
+git_repository: "https://github.com/seroslaw/Panda_Infrastructure.git"
+git_branch: "main"
